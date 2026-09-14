@@ -1,0 +1,91 @@
+{
+  "platform_distribution": {
+    "Reddit": 108,
+    "Twitter": 98,
+    "Facebook": 97,
+    "Instagram": 93,
+    "Youtube": 93,
+    "Unspecified": 86
+  },
+  "correlation_matrix": {
+    "likes": {
+      "likes": 1.0,
+      "shares": -0.0099581231431832,
+      "comments": 0.08525608306202141
+    },
+    "shares": {
+      "likes": -0.0099581231431832,
+      "shares": 1.0,
+      "comments": -0.04652549608161188
+    },
+    "comments": {
+      "likes": 0.08525608306202141,
+      "shares": -0.04652549608161188,
+      "comments": 1.0
+    }
+  },
+  "top_locations": {
+    "Melbourne, Australia": 27,
+    "Dubai, UAE": 27,
+    "London, UK": 25,
+    "Mumbai, India": 25,
+    "Barcelona, Spain": 24,
+    "Berlin, Germany": 24,
+    "Osaka, Japan": 23,
+    "Los Angeles, USA": 22,
+    "Cairo, Egypt": 20,
+    "Delhi, India": 20
+  },
+  "top_languages": {
+    "zh": 70,
+    "ja": 65,
+    "en": 63,
+    "pt": 63,
+    "hi": 60,
+    "fr": 59,
+    "ru": 51,
+    "es": 50,
+    "de": 48,
+    "ar": 46
+  },
+  "engagement_by_follower_tier": {
+    "likes": {
+      "Low (Q1)": 2354.85,
+      "Medium-Low (Q2)": 2624.5371900826444,
+      "Medium-High (Q3)": 2377.4661016949153,
+      "High (Q4)": 2545.1487603305786
+    },
+    "shares": {
+      "Low (Q1)": 967.5347222222222,
+      "Medium-Low (Q2)": 1058.3125,
+      "Medium-High (Q3)": 995.8461538461538,
+      "High (Q4)": 953.2986111111111
+    },
+    "comments": {
+      "Low (Q1)": 474.61805555555554,
+      "Medium-Low (Q2)": 503.1666666666667,
+      "Medium-High (Q3)": 503.8251748251748,
+      "High (Q4)": 468.06944444444446
+    },
+    "follower_count": {
+      "Low (Q1)": 7300.979166666667,
+      "Medium-Low (Q2)": 18550.36111111111,
+      "Medium-High (Q3)": 30398.055944055945,
+      "High (Q4)": 43335.88888888889
+    }
+  },
+  "monthly_posts": {
+    "2024-05": 63,
+    "2024-06": 50,
+    "2024-07": 45,
+    "2024-08": 57,
+    "2024-09": 47,
+    "2024-10": 42,
+    "2024-11": 50,
+    "2024-12": 29,
+    "2025-01": 47,
+    "2025-02": 49,
+    "2025-03": 55,
+    "2025-04": 41
+  }
+}

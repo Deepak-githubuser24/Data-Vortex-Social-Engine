@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Event: Aaruush '26](https://img.shields.io/badge/Event-Aaruush%20'26-orange.svg)](https://aaruush.org)
 
-**Team Name:** DEEPAK
+**Team Name:** Forge-X  
 **Institution:** SRM Institute of Science & Technology  
 **Challenge:** Data Vortex — Round 1 (Phase 1): Data Intake Restoration  
 
